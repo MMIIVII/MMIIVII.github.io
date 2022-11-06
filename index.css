@@ -1,0 +1,64 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color: rgb(14, 66, 109);
+    color: ;
+    margin-top: 40px;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+#logo {
+    height: 200px;
+    width: 350px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+.mmii-section {
+    padding: 20px 20px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+#mms ul {
+    list-style-type: none;
+    width: 100%;
+    padding: 0 0;
+}
+
+.avatar {
+    background-image: url('../Images/MMIIVII.png');
+    background-size: cover;
+    height: 30px;
+    width: 50px;
+    border-radius: 75%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#mmii {
+    font-size: 50px;
+    color: rgb(14, 66, 109);
+    font-weight: bold;
+}
+
+a.blue {
+    color: blue;
+}
